@@ -1,7 +1,7 @@
 declare const M: any;
 
 import 'materialize-css/dist/css/materialize.min.css';
-import 'materialize-css/dist/js/materialize.min';
+import 'materialize-css/dist/js/materialize.min.js';
 import '../css/styles.css';
 
 document.addEventListener('DOMContentLoaded', function() {
