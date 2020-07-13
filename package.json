@@ -1,0 +1,19 @@
+{
+  "name": "pwa-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tacallaway/pwa-tutorial.git",
+  "author": "dcallaway <dustin_callaway@intuit.com>",
+  "license": "MIT",
+  "dependencies": {
+    "materialize-css": "^1.0.0"
+  },
+  "devDependencies": {
+    "css-loader": "^3.6.0",
+    "style-loader": "^1.2.1",
+    "ts-loader": "^8.0.0",
+    "typescript": "^3.9.6",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
